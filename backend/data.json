@@ -1,0 +1,52 @@
+{
+  "uploads": [
+    {
+      "id": "JWx4COd0_",
+      "filename": "img_1.jpeg",
+      "mimetype": "image/jpeg",
+      "path": "/home/node/app/src/public/images/JWx4COd0_-img_1.jpeg"
+    },
+    {
+      "id": "cP-UZbQsT",
+      "filename": "img_2.jpeg",
+      "mimetype": "image/jpeg",
+      "path": "/home/node/app/src/public/images/cP-UZbQsT-img_2.jpeg"
+    },
+    {
+      "id": "xHwmf5pzA",
+      "filename": "img_3.jpeg",
+      "mimetype": "image/jpeg",
+      "path": "/home/node/app/src/public/images/xHwmf5pzA-img_3.jpeg"
+    },
+    {
+      "id": "S25p3AGaa",
+      "filename": "img_4.jpeg",
+      "mimetype": "image/jpeg",
+      "path": "/home/node/app/src/public/images/S25p3AGaa-img_4.jpeg"
+    },
+    {
+      "id": "9Nq8W4jj1",
+      "filename": "img_5.jpeg",
+      "mimetype": "image/jpeg",
+      "path": "/home/node/app/src/public/images/9Nq8W4jj1-img_5.jpeg"
+    },
+    {
+      "id": "gQ-b1HIT4",
+      "filename": "img_6.jpeg",
+      "mimetype": "image/jpeg",
+      "path": "/home/node/app/src/public/images/gQ-b1HIT4-img_6.jpeg"
+    },
+    {
+      "id": "QmrOe1bUt",
+      "filename": "img_7.jpeg",
+      "mimetype": "image/jpeg",
+      "path": "/home/node/app/src/public/images/QmrOe1bUt-img_7.jpeg"
+    },
+    {
+      "id": "s7uXdJbx4",
+      "filename": "img_8.jpeg",
+      "mimetype": "image/jpeg",
+      "path": "/home/node/app/src/public/images/s7uXdJbx4-img_8.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = '';
+var passwd = 'shopping-cart_2020';
+db = db.getSiblingDB('shopping-cart');
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = '';
+var passwd = 'shopping-cart_2020';
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = '';
+var passwd = 'shopping-cart_2020';
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = '';
+var password = 'shopping-cart_2020';
+echo user
+echo password
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = '';
+var password = 'shopping-cart_2020';
+console.log(user)
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = '';
+var password = 'shopping-cart_2020';
+print(user)
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = 'administrator';
+var password = 'shopping-cart_2020';
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = 'administrator';
+var password = 'shopping-cart_2020';
+var rootUser = 'root';
+var rootPassword = 'shopping-cart_2020';
+var admin = db.getSiblingDB('admin');
+var user = 'administrator';
+var password = 'shopping-cart_2020';
