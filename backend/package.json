@@ -8,7 +8,8 @@
         "start": "DEBUG='api' NODE_ENV=production nodemon ./src/server.ts",
         "start:debug": "DEBUG='api' NODE_ENV=production node --inspect=0.0.0.0:9229 -r ts-node/register ./src/server.ts",
         "build": "tsc",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "jest --runInBand --forceExit",
+        "test:container": "docker-compose -f docker-compose.test.yml run --rm api"
     },
     "repository": {
         "type": "git",
